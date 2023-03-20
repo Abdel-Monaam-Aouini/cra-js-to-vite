@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.0.0...v1.1.0) (2023-03-20)
+
+
+### Features
+
+* bump vite from 4.1.4 to 4.2.1 ([0dd34ea](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/0dd34ea73fc873340a8f40162d5d174e7fa98384))
+
 # 1.0.0 (2023-03-20)
 
 
