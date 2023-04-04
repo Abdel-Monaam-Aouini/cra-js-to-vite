@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.3.0...v1.4.0) (2023-04-04)
+
+
+### Features
+
+* bump @types/react from 18.0.31 to 18.0.33 ([e04319c](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/e04319c16d99a0ca5a373430e1ae29c6a4563af6))
+
 # [1.3.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.2.0...v1.3.0) (2023-03-30)
 
 
