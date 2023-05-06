@@ -1,3 +1,13 @@
+# [1.6.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.5.0...v1.6.0) (2023-05-06)
+
+
+### Features
+
+* bump @semantic-release/release-notes-generator ([abacd27](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/abacd27f4212a14e5f818a056a409950bfb1a2b9))
+* bump @types/react from 18.0.34 to 18.2.5 ([fc4e665](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/fc4e6659693fbe470950a6c0bb993691352cfe2a))
+* bump @vitejs/plugin-react from 3.1.0 to 4.0.0 ([f2862ef](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/f2862efa7b73f3d5c32dcb37189b383b97a4fa76))
+* bump vite from 4.2.1 to 4.3.5 ([9e0d0eb](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/9e0d0eb9380806da6de328232352a6281f1ff929))
+
 # [1.5.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.4.0...v1.5.0) (2023-04-11)
 
 
