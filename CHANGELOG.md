@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.6.0...v1.7.0) (2023-06-04)
+
+
+### Features
+
+* Create pr.yml ([#37](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/issues/37)) ([6e4d3d0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/commit/6e4d3d000781531e9104f38aba6c0e67b0ddf0ab))
+
 # [1.6.0](https://github.com/Abdel-Monaam-Aouini/cra-js-to-vite/compare/v1.5.0...v1.6.0) (2023-05-06)
 
 
